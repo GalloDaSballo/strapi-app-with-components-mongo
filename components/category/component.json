@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "component",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "Texy": {
+      "type": "string"
+    },
+    "Repeating": {
+      "type": "richtext"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_category_components"
+}

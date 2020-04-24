@@ -1,0 +1,17 @@
+{
+  "info": {
+    "name": "Second Component",
+    "icon": "ambulance"
+  },
+  "options": {},
+  "attributes": {
+    "Text": {
+      "type": "string"
+    },
+    "Coso": {
+      "type": "string"
+    }
+  },
+  "connection": "default",
+  "collectionName": "components_category_second_components"
+}

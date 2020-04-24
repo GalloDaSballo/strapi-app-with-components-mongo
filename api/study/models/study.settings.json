@@ -1,0 +1,24 @@
+{
+  "info": {
+    "name": "Study"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true
+  },
+  "attributes": {
+    "Alex": {
+      "type": "dynamiczone",
+      "components": [
+        "category.component"
+      ]
+    },
+    "Second": {
+      "type": "component",
+      "repeatable": true,
+      "component": "category.second-component"
+    }
+  },
+  "connection": "default",
+  "collectionName": "studies"
+}
